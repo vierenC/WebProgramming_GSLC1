@@ -10,22 +10,22 @@ Page Screenshots
 --------------------------------------
 
 ### Jasons
-<img src="https://github.com/jeje116/Web-Programming-Prototype/blob/main/ssPage/pageJasons.png" alt="License" style="width: 500px">
+<img src="https://github.com/vierenC/WebProgramming_GSLC1/blob/main/ssPage/PageJasonsUpdate.png" alt="License" style="width: 450px">
  
 --------------------------------------
 
 ### Matthew
-<img src="https://github.com/jeje116/Web-Programming-Prototype/blob/main/ssPage/pageMatthew.png" alt="License" style="width: 500px">
+<img src="https://github.com/vierenC/WebProgramming_GSLC1/blob/main/ssPage/PageMattUpdate.png" alt="License" style="width: 450px">
  
 --------------------------------------
 
 ### Vika
-<img src="https://github.com/jeje116/Web-Programming-Prototype/blob/main/ssPage/pageVika.png" alt="License" style="width: 500px">
+<img src="https://github.com/vierenC/WebProgramming_GSLC1/blob/main/ssPage/PageVikaUpdate.png" alt="License" style="width: 450px">
  
 --------------------------------------
 
 ### Vieren
-<img src="https://github.com/jeje116/Web-Programming-Prototype/blob/main/ssPage/pageVieren.png" alt="License" style="width: 500px">
+<img src="https://github.com/vierenC/WebProgramming_GSLC1/blob/main/ssPage/PageVierenUpdate.png" alt="License" style="width: 450px">
  
 --------------------------------------
 
