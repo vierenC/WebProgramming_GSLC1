@@ -1,5 +1,4 @@
 <div class ="navbar flex items-center justify-between sticky top-0 z-40 bg-white">
-    <h2 class = "text4 font-bold font-serif text-slate-900">@yield('judul_halaman')</h2>
     <h2 class = "text4 font-bold font-serif text-slate-900">PROFILE</h2>
             
     <input type="checkbox" class="check">
